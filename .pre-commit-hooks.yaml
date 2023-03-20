@@ -6,7 +6,6 @@
     'types': [text]
     args: []
     require_serial: false
-    additional_dependencies: ["prettier@3.0.0-alpha.6"]
     minimum_pre_commit_version: '0'
     files: src/gproducts/pse-results
     types_or: [css,html,javascript,json,jsx,ts,tsx]
